@@ -1,0 +1,14 @@
+- name: DIKTAT_COMMON
+  configuration:
+    domainName: net.yewton
+    kotlinVersion: 1.5.31
+- name: MISSING_KDOC_TOP_LEVEL
+  enabled: false
+- name: USE_DATA_CLASS
+  enabled: false
+- name: MISSING_KDOC_CLASS_ELEMENTS
+  enabled: false
+- name: CUSTOM_GETTERS_SETTERS
+  enabled: false
+- name: TRAILING_COMMA
+  enabled: false
